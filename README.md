@@ -8,6 +8,8 @@
 * [Installation](https://www.rust-lang.org/tools/install)
 
 
+* [ CHAPTER 2 ](https://github.com/slothyrulez/rust-book-summary/blob/master/CHAPTER2.md)
+
 # Chapter 3 - Common Programming Concepts
 
 ## Constants
